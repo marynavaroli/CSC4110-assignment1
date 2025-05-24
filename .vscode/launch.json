@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/marynavaroli/Documents/WSU/CSC4110/Assignment1/CSC4110-assignment1",
+      "program": "/Users/marynavaroli/Documents/WSU/CSC4110/Assignment1/CSC4110-assignment1/build/Debug/outDebug"
+    }
+  ]
+}
